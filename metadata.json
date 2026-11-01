@@ -1,0 +1,6 @@
+{
+  "name": "웰바이영 | WELL BY YOUNG - Personal Health Designer",
+  "description": "일상의 활력을 설계하는 퍼스널 헬스 디자인 브랜드 웰바이영. 개인 맞춤형 라이프스타일 및 영양 설계 솔루션 온유(ON YOU).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
